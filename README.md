@@ -1,2 +1,2 @@
 # Event
-[text](<EventEase-1.2/Event Management App.pptx>)
+[text](EventEase-1.2/images)
